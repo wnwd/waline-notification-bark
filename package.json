@@ -1,0 +1,23 @@
+{
+  "name": "waline-notification-bark",
+  "version": "1.0.0",
+  "description": "Notification for bark app",
+  "keywords": [
+    "waline",
+    "plugin",
+    "notification",
+    "blog",
+    "bark"
+  ],
+  "homepage": "https://github.com/wnwd/waline-notification-bark#readme",
+  "bugs": {
+    "url": "https://github.com/wnwd/waline-notification-bark/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnwd/waline-notification-bark.git"
+  },
+  "license": "MIT",
+  "author": "mapxn",
+  "main": "index.js"
+}
