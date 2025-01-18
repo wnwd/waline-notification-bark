@@ -36,7 +36,7 @@ Add `"waline-notification-bark": "latest"` into `package.json` dependencies.
 - `BARK_LEVEL`: (optional) Push interruption level. `active`: default value, the system will immediately light up the screen to display the notification, `timeSensitive`: time-sensitive notification, which can be displayed in the focused state, `passive`: only add the notification to the notification list, and will not light up the screen to remind you.
 - `BARK_ICON`: (optional) Set a custom icon for push notifications, default value is `https://waline.js.org/logo.png`.
 - `BARK_SOUND`: (optional) You can set different ringtones for push notifications. The default ringtone is `minuet.caf`.
-- `BARK_TITLE_TEMPLATE`: (Optional) Title template. The default value is `{{self.name}} 有新评论啦`, which is used to display the title in the notification message.
+- `BARK_TITLE_TEMPLATE`: (optional) Title template. The default value is `{{self.name}} 有新评论啦`, which is used to display the title in the notification message.
 - `BARK_TEMPLATE`: (optional) Your custom notification template, please refer [this document](https://waline.js.org/en/guide/features/notification.html#notification-template).
 
 The default template as below:

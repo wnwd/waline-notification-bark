@@ -1,7 +1,7 @@
 {
   "name": "waline-notification-bark",
-  "version": "1.0.0",
-  "description": "Notification for bark app",
+  "version": "1.0.1",
+  "description": "A Waline notification plugin that sends alerts via Bark app",
   "keywords": [
     "waline",
     "plugin",
